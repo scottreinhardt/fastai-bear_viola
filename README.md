@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Minima
 emoji: 📈
@@ -11,3 +12,8 @@ license: apache-2.0
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces#reference
+=======
+# tropicainnovations
+# tropicainnovations
+# fastai-bear_viola
+>>>>>>> e646e68935b0d8df73344e0c6d43b2e443d88ac6
